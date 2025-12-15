@@ -16,17 +16,17 @@ capitals = {"USA": "Washington D.C",
 # else:
 #     print("That capital does not exist")
 
-#capitals.update({"Germany": "Berlin"})
-#capitals.update({"USA": "Detroit"})
-#capitals.pop("China")
-#capitals.popitem()
+# capitals.update({"Germany": "Berlin"})
+# capitals.update({"USA": "Detroit"})
+# capitals.pop("China")
+# capitals.popitem()
 # #capitals.clear()
 
 # keys = capitals.keys
 # print(keys)
 
 # for key in capitals.keys():
-# #     print(key)
+#     print(key)
 # values = capitals.values()
 # for value in capitals.values():
 #     print(value)

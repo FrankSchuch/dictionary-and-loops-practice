@@ -17,6 +17,18 @@
             # Students must:
 
             # Describe the search process
+import student_data
+students = student_data.students
+# student_name = print(input("What student are you looking for: "))
+items = students.items()
+for key, value in students.items():
+    print(f"{key}: {value}")
+
+# if students.get(student_name):
+#     # print(students.get(student_name))
+#     print("Student does exist")
+# else:
+#     print("Student does not exist, please try again.")
 
 ## be able to add new data
 # Your program must allow the secretary to ADD a brand new student
