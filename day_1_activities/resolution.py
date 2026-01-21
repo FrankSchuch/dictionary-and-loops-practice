@@ -43,7 +43,7 @@ def search_student(full_name):
             return student
             
     # if not found, return None
-return None
+    return None
     
 
 
@@ -65,7 +65,7 @@ for student in students:
             # If a match is found, print an error and exit the function
             print("Error: A student with this CPS ID already exists.")
             # Exit the function early to prevent adding a duplicate\
-            return
+        gitreturn
             
 
     # Continue gathering the rest of the information
